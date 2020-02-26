@@ -1,2 +1,3 @@
 Add some new text
 New text
+Add new
